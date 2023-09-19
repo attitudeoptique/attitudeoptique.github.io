@@ -2,7 +2,7 @@
 
 ---
 
-The english version of Attitude Optique's website is ccoming soon !
+The english version of Attitude Optique's website is coming soon !
 
 
 {{< figure
