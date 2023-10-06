@@ -6,7 +6,7 @@ The english version of Attitude Optique's website is coming soon !
 
 
 {{< figure
-    src="/img/couverture.jpeg"
+    src="/img/test_AO_.jpeg"
 >}}
 
 <font size="4">**Hours**</font>  

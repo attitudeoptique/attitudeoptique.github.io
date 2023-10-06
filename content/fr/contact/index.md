@@ -26,10 +26,10 @@ showAuthor : false
 **Samedi : 9h30 -- 12h30 / 14h30 -- 18h**
 
 <font size="4">**Téléphone**</font>  
-**{{< icon "phone" >}} 09 67 50 44 76**
+**{{< icon "phone" >}} &nbsp; 09 67 50 44 76**
 
 <font size="4">**Mail**</font>  
-**{{< icon "envelope" >}} contact@attitudeoptique.fr**
+**{{< icon "envelope" >}} &nbsp; contact@attitudeoptique.fr**
 
 <font size="4">**Adresse**</font>  
 **1 Avenue des romains, 74000 Annecy**

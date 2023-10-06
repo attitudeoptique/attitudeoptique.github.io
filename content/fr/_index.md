@@ -3,15 +3,15 @@
 ---
 
 {{< figure
-    src="/img/test_AO_.jpeg"
+    src="/img/cover_AO.jpeg"
 >}}
 
 
-Attitude Optique est un magasin engagé, qui propose principalement des lunettes de créateurs de fabrication française, en bref des montures originales et bien fabriquées.
-La qualité et le confort visuel apporté à chacun est également au centre de nos préoccupations.
-Nous travaillons donc avec Hoya, un verrier de premier rang mondial axé sur la qualité et l'innovation technologique.
-De plus, nos verres sont également fabriqués en France, et taillés et montés au magasin.
-Attitude Optique propose également des contrôles de la vision.
+**Attitude Optique** est un magasin engagé, qui propose principalement des **lunettes** de **créateurs** de **fabrication française**, en bref des **montures originales** et **bien fabriquées**.
+La **qualité** et le **confort visuel** apporté à chacun est également au centre de nos préoccupations.
+Nous travaillons donc avec **HOYA**, un **verrier de premier rang mondial** axé sur la **qualité** et l'**innovation technologique**.
+De plus, nos verres sont également **fabriqués en France**, et **taillés et montés au magasin**.
+**Attitude Optique** propose également des **contrôles de la vision**.
 Tout est fait pour apporter le meilleur service possible à nos clients.
 
 
@@ -20,8 +20,8 @@ Tout est fait pour apporter le meilleur service possible à nos clients.
 **Samedi : 9h30 -- 12h30 / 14h30 -- 18h**
 
 <font size="4">**Contact**</font>  
-**{{< icon "phone" >}} 09 67 50 44 76**  
-**{{< icon "envelope" >}} contact@attitudeoptique.fr**
+**{{< icon "phone" >}} &nbsp; 09 67 50 44 76**  
+**{{< icon "envelope" >}} &nbsp; contact@attitudeoptique.fr**
 
 <font size="4">**Adresse**</font>  
 **1 Avenue des romains, 74000 Annecy**
