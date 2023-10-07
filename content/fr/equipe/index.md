@@ -43,7 +43,7 @@ Elle a d'abord travaillé dans un magasin d'optique de luxe à Chamonix avant de
 
 
 
-## Stéphanie Vandermollen
+## Stéphanie Vandermolen
 
 Après des études d'optique réussies à Chateau Massart à Liège (Belgique), Stéphanie a débuté sa carrière en tant que technicienne dans un laboratoire de recherce en aérospatial de l'université de Liège.
 Elle a ensuite été opticienne en Belgique pendant une vingtaine d'années.
