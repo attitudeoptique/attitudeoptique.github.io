@@ -33,7 +33,7 @@ Elle s'engage aussi pour la santé visuelle, notamment dans la lutte contre la m
 ### Origine France Garantie
 Implantée en France depuis plus de 20 ans, **HOYA** soutient le savoir-faire industriel de pointe français.
 **HOYA** propose donc des verres **"Origine France Garantie"** fabriqués dans l'usine d'Emerainville, en Seine-et-Marne.
-En plus de soutenir l'économie locale, c'est aussi la garantie d'avoir vos lunettes dans les délais les plus brefs.
+En plus de soutenir l'économie locale, c'est aussi la garantie d'avoir vos lunettes dans les délais les plus courts.
 
 
 ### Un problème d'adaptation ?
