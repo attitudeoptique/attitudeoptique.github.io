@@ -45,6 +45,8 @@ En particulier, vous trouverez chez **Attitude Optique** :
     <br>
     Tod's
     <br>
+    French Retro
+    <br>
     Swarovski
     <br>
     Guess
